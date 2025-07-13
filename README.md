@@ -1,9 +1,9 @@
-<h1 align="center">👋 Привет! Я Сергей</h1>
+<h1 align="center">👋 Hi! I'm Sergey</h1>
 <p align="center">Java Developer | Backend | Microservices</p>
 
 ---
 
-### 🔧 Мой стек
+### 🔧 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-17/21-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -17,15 +17,15 @@
 
 ---
 
-### 📌 Избранные проекты
+### 📌 Featured Projects
 
-- 🔗 [URL Shortener (CorpX)](https://github.com/lomuserg/url_shortener_service) — генерация коротких ссылок, кэширование, редиректы.
-- 🏆 [Achievements System](https://github.com/lomuserg/project_service) — выдача достижений через Redis Pub/Sub.
-- 📅 [Events App (ВКР)](https://github.com/lomuserg/Events) — планирование мероприятий, JWT, Kafka.
+- 🔗 [URL Shortener (CorpX)](https://github.com/lomuserg/url_shortener_service) — short link generation, caching, redirects.
+- 🏆 [Achievements System](https://github.com/lomuserg/project_service) — achievement tracking via Redis Pub/Sub.
+- 📅 [Events App (Thesis)](https://github.com/lomuserg/Events) — event planning platform with JWT auth and Kafka notifications.
 
 ---
 
-### 📫 Связь
+### 📫 Contact
 
-- [Telegram: @smurno](https://t.me/smurno)
+- [Telegram: @smurno](https://t.me/smurno)  
 - 📧 sergeymu2015@yandex.ru
